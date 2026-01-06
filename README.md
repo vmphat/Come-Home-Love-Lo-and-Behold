@@ -49,3 +49,4 @@
 - 2667 - công khai 2
 - 2672 - công khai 3
 - <ins>2674 - tan ca đúng giờ</ins>
+- <ins>2677 - gan nhiễm mỡ</ins>
