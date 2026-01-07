@@ -50,3 +50,4 @@
 - 2672 - công khai 3
 - <ins>2674 - tan ca đúng giờ</ins>
 - <ins>2677 - gan nhiễm mỡ</ins>
+- 2679 - thích vs không thích
