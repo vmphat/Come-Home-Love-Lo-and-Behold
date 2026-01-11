@@ -52,3 +52,4 @@
 - <ins>2677 - gan nhiễm mỡ</ins>
 - 2679 - thích vs không thích
 - <ins> 2692 - bánh bông lan cá mặn</ins>
+- 2693 - thuyền mô hình
