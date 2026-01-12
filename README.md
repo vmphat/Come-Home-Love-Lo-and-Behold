@@ -53,3 +53,4 @@
 - 2679 - thích vs không thích
 - <ins> 2692 - bánh bông lan cá mặn</ins>
 - 2693 - thuyền mô hình
+- <i>2699 - thiết kế poster</i>
