@@ -1,10 +1,10 @@
 # Come Home Love: Lo and Behold | Mái ấm gia đình 4
 
-- 1979 - kết/ly-hôn
+- 1979 - áo cưới
 - 1987
-- 2008
-- 2023
-- 2035
+- 2008 - làm móng
+- 2023 - thái sơn sụp đổ trước mắt sắc mặt cũng không thay đổi
+- 2035 - tôi mời cô
 - 2102
 - 2134
 - 46+2147
@@ -25,10 +25,10 @@
 - 2430
 - 2436 + 37
 - 2450
-- <i>2451</i>
+- `2451`
 - 2468
 - 2473
-- <i>2479</i>
+- `2479`
 - 2480 - vòng xoay thức ăn
 - 2483+4
 - 2491
@@ -37,10 +37,10 @@
 - 2547
 - 2550
 - <ins>2585 - marathon</ins>
-- <i>2594 - dị ứng tôm</i>
+- `2594 - dị ứng tôm`
 - 2606 - cosplay
 - 2611 - panda mascot
-- <i>2620 - ghế gãy | "tôi nuôi cô"</i>
+- `2620 - ghế gãy | "tôi nuôi cô"`
 - 2629 - "chua"
 - 2653 - mộng chi viện
 - 2660 - chưa đọc thư tình
@@ -53,4 +53,4 @@
 - 2679 - thích vs không thích
 - <ins> 2692 - bánh bông lan cá mặn</ins>
 - 2693 - thuyền mô hình
-- <i>2699 - thiết kế poster</i>
+- `2699 - thiết kế poster`
