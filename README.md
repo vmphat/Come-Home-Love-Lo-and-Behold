@@ -6,7 +6,7 @@
 - 2023 - thái sơn sụp đổ trước mắt sắc mặt cũng không thay đổi
 - 2035 - tôi mời cô
 - 2102
-- 2134
+- 2134 - lồng tiếng
 - 46+2147
 - 2203
 - 2205+6
