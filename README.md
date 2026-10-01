@@ -5,7 +5,7 @@
 - 2008 - làm móng
 - 2023 - thái sơn sụp đổ trước mắt sắc mặt cũng không thay đổi
 - 2035 - tôi mời cô
-- 2102
+- 2102 - tiền kiếp
 - 2134 - lồng tiếng
 - 21|46+47 - xích bích + nước ngoài?
 - 2203
