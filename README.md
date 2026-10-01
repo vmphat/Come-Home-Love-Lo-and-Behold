@@ -7,7 +7,7 @@
 - 2035 - tôi mời cô
 - 2102 - tiền kiếp
 - 2134 - lồng tiếng
-- 21|46+47 - xích bích + nước ngoài?
+- 21|46+47 - "xích bích" + nước ngoài?
 - 2203
 - 2205+6
 - 2219
